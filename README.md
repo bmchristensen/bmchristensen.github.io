@@ -4,8 +4,7 @@ Professional porfolio page highlighting work inspired by and for OSU Cascades's 
 
 ## Author
 
-* **Brian Christensen**
-* bmchristensen.github.io
+* [**Brian Christensen**](https://bmchristensen.github.io)
 
 ## License
 Copyright © 2018, [Brian Christensen](https://github.com/bmchristensen).
