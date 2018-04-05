@@ -3,3 +3,13 @@
   font-family: 'Source Code Pro', serif;
   font-size: 72px;
 }
+
+.border {
+  border: 2px;
+  padding-top: 15px;
+}
+
+/*#middle {
+  margin-left: 5px;
+  margin-right: 5px;
+}*/
